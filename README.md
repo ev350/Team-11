@@ -8,6 +8,3 @@ Task List
 - [x] Set up repository
 - [ ] Team Contract
 - [ ] Draft Project Plan
-
-
-Test
