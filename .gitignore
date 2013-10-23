@@ -1,0 +1,6 @@
+# Temporary Word Documents
+~*
+*.tmp
+
+# Temporary Open Office Documents
+.~*
